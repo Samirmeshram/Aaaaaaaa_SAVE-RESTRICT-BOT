@@ -1,6 +1,6 @@
 # cantarella
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @public_jack_developer
 
 from pyrogram import Client, filters
 from pyrogram.types import Message
@@ -30,7 +30,7 @@ async def unban(client: Client, message: Message):
         await message.reply_text("Error unbanning user.")
 # cantarella
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @public_jack_developer
 
 @Client.on_message(filters.command("set_dump") & filters.user(ADMINS))
 async def set_dump(client: Client, message: Message):
@@ -54,4 +54,4 @@ async def manage_force_subscribe(client: Client, message: Message):
 
 # cantarella
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @public_jack_developer
