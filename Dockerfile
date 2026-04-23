@@ -1,11 +1,11 @@
 # ========================================================
 # cantarella
 # Don't Remove Credit 🥺
-# Telegram Channel @cantarellabots
+# Telegram Channel @public_jack_developer
 #
 # Maintained & Updated by:
-# Dhanpal Sharma
-# GitHub: https://github.com/LastPerson07
+# Jack 
+# GitHub: https://github.com
 # ========================================================
 
 FROM python:3.10.13-slim-bullseye
@@ -37,8 +37,8 @@ CMD ["python3", "bot.py"]
 # ========================================================
 # cantarella
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @public_jack_developer
 #
 # Updated & Managed by:
-# Dhanpal Sharma | https://github.com/LastPerson07
+# Jack | https://github.com
 # ========================================================
